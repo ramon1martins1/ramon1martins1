@@ -9,7 +9,7 @@
 ### 🛠️ Tecnologias que utilizo:  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,postgresql,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,postgresql,github,vercel,python" />
 </p>
 
 
